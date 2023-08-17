@@ -1,0 +1,43 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CyclicTreeDetectionAndSerializer",
+      "request": "launch",
+      "mainClass": "CyclicTreeDetectionAndSerializer",
+      "projectName": "Serialize Question_807b427a"
+    },
+    {
+      "type": "java",
+      "name": "CyclicTreeDetectionAndSerializer",
+      "request": "launch",
+      "mainClass": "CyclicTreeDetectionAndSerializer",
+      "projectName": "takehomeinternassessment_9ad3a17b"
+    },
+    {
+      "type": "java",
+      "name": "CyclicTreeSerializer",
+      "request": "launch",
+      "mainClass": "CyclicTreeSerializer",
+      "projectName": "takehomeinternassessment_9ad3a17b"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "JSONParser",
+      "request": "launch",
+      "mainClass": "JSONParser",
+      "projectName": "takehomeinternassessment_9ad3a17b",
+      "vmArgs": "-enableassertions"
+    }
+  ]
+}
